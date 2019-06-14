@@ -1,0 +1,3 @@
+65
+If the name printed on my boarding pass is different than what appears on my government ID, will I still be able to fly?
+The name you provide when booking your travel is used to perform the watch list matching before a boarding pass is ever issued. You should ensure that the name provided when booking your travel matches the government ID that you will use when traveling. Due to difference in boarding pass systems, boarding passes may not always display the exact name you provided when booking your travel. Differences such as the use of a middle initial instead of a full middle name or no middle name/initial at all, hyphens or apostrophes) should not cause a problem for the passenger.

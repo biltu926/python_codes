@@ -1,0 +1,3 @@
+77
+I have a pending charge on my credit card for a transaction I cancelled. When will the hold for this amount be released back to my credit card?
+Generally, we are able to release authorization codes directly with your bank if the transaction was made and cancelled on the same calendar day. There are some exceptions to this depending on your financial institution and the type of ticket that was purchased.

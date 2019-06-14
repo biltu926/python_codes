@@ -1,0 +1,3 @@
+15
+What is the maximum number of travelers that I can book online in one reservation?
+You may book up to a total of nine passengers on a single reservation. If you have more than nine travelers, you must book your travel as a group by clicking on the "Group Travel" tab and filling out the "Group Travel Request" form. You may also contact our Customer Service team at 1-844-327-2373 or Chat on Facebook Messengerfor assistance.

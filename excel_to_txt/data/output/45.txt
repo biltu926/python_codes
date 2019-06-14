@@ -1,0 +1,3 @@
+45
+If I have flight reservations and the airline changes my itinerary, will Travelomind notify me?
+Airlines will sometimes make changes to their flight schedules. Travelomind will attempt to notify you via e-mail prior to the originally scheduled departure time if your itinerary change is substantial. Schedule changes that do not have a major impact on your itinerary will not be followed up with an e-mail. Such minor changes include, but are not limited to: 

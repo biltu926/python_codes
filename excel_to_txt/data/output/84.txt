@@ -1,0 +1,3 @@
+84
+I entered a promo code, how can I be sure I received the discount?
+The promo codes are discounts off our transaction service fees. On occasion the transaction service fee is less than the promo code therefore a lesser discount, or no discount at all, can be offered.

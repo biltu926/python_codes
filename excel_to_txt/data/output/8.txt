@@ -1,0 +1,3 @@
+8
+Why did the fare increase when I tried to book my flight?
+Airfares can change minute by minute based on demand and availability. Between the time of your flight search and actual booking, seat inventory in a particular booking class (fare) may sell out. Airlines then offer their available inventory at a higher price: We monitor these changes closely and make every effort to keep inventory and fares in our displays as current as possible.

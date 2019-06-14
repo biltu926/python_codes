@@ -1,0 +1,3 @@
+67
+I did not request a refund, why am I being sent an email stating that I have received one?
+These refunds are typically for seat assignment requests that could not be fulfilled by the airline or during a quality check we detected an additional fare savings prior to ticketing your reservation. This refund does not affect your airline ticket purchase.

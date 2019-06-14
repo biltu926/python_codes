@@ -1,0 +1,3 @@
+11
+Can I make a reservation arriving into one city and returning from another city?
+Yes. This is a multi-city option. Our booking engine allows you to search fares in many different ways such as flying into one city and returning from another. Please click on the "Multiple Cities" tab on the "Flight Search" screen to book your itinerary.

@@ -1,0 +1,3 @@
+68
+Why do I have mulitple charges on my credit card from Travelomind?
+This occurs when multiple airlines or passengers are booked in a reservation. You will see a charge for each ticket processed separately. Any service fees, taxes or additional services may also show as separate charges with the description of Travelomind. When added together these charges should total the amount you were quoted.

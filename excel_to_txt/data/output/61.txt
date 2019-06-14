@@ -1,0 +1,3 @@
+61
+What Passenger data is required?
+When passengers travel, they will be required to provide the following Secure Flight Passenger Data (SFPD) when making a reservation: 

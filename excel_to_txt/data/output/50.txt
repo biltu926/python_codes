@@ -1,0 +1,3 @@
+50
+Do you offer any Senior citizen discounts?
+Seniors are adults over the age of 65. Many domestic airlines no longer off a senior discount and are also limited on International carriers as well. If a senior discount is available, it will display upon selection while booking online.
